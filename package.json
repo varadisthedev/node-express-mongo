@@ -1,0 +1,20 @@
+{
+  "name": "ejs-pro-1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0",
+    "i": "^0.3.7",
+    "mongoose": "^8.19.3",
+    "nodemon": "^3.1.10",
+    "npm": "^11.6.2"
+  }
+}
