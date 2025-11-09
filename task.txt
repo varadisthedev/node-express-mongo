@@ -1,0 +1,19 @@
+REST API - SUPPORTS JSON (for react)
+//routes 
+
+GET /users : list all users in HTML
+GET /api/users : list all users in JSON
+
+dynamic path parameter
+GET /api/users/:id 
+:id -> varible
+
+GET /api/user/1 : GET the user with id 1 
+GET /api/user/2 : GET the user with id 2 
+
+POST /api/users : create new users
+PATCH /api/users/1 : edit the user with id 1 
+
+DELETE /api/users/1 : delete the user with id 1
+
+here we are using best pracices
